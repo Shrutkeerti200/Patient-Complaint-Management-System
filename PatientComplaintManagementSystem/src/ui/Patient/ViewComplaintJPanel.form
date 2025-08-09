@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="101" max="-2" attributes="0"/>
+                      <Component id="lblComplaintId8" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jScrollPane1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="138" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="2" attributes="0">
+                          <Component id="lblComplaintId" alignment="2" min="-2" max="-2" attributes="0"/>
+                          <Component id="lblComplaintId2" alignment="2" min="-2" max="-2" attributes="0"/>
+                          <Component id="lblComplaintId5" alignment="2" min="-2" max="-2" attributes="0"/>
+                          <Component id="lblComplaintId6" alignment="2" min="-2" max="-2" attributes="0"/>
+                          <Component id="lblComplaintId9" alignment="2" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="2" attributes="0">
+                                  <Component id="txtComplaintId" alignment="2" min="-2" pref="97" max="-2" attributes="0"/>
+                                  <Component id="txtStatus" alignment="2" min="-2" pref="97" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="74" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="lblComplaintId3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="lblComplaintId4" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="2" attributes="0">
+                                  <Component id="txtAssignedTo" alignment="2" min="-2" pref="97" max="-2" attributes="0"/>
+                                  <Component id="txtDateSubmitted" alignment="2" min="-2" pref="97" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="txtTreatmentPlan" alignment="1" min="-2" pref="352" max="-2" attributes="0"/>
+                                  <Group type="103" alignment="1" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="txtDescription" max="32767" attributes="0"/>
+                                      <Component id="txtAssessmentReview" pref="352" max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace pref="23" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                      <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="247" max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="131" max="-2" attributes="0"/>
+                      <Component id="lblComplaintId7" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="txtTotalFees" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="349" max="-2" attributes="0"/>
+                      <Component id="btnVitals1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="lblComplaintId11" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="txtOrderId" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+                      <Component id="lblComplaintId10" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="txtMedicationOrderStatus" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="138" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblComplaintId" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtComplaintId" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblComplaintId3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtAssignedTo" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblComplaintId4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtDateSubmitted" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblComplaintId2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtStatus" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lblComplaintId5" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtDescription" min="-2" pref="38" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lblComplaintId6" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtAssessmentReview" min="-2" pref="44" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lblComplaintId9" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtTreatmentPlan" min="-2" pref="44" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jScrollPane1" min="-2" pref="105" max="-2" attributes="0"/>
+                  <Component id="lblComplaintId8" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblComplaintId10" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtMedicationOrderStatus" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblComplaintId11" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtOrderId" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblComplaintId7" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtTotalFees" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+              <Component id="btnVitals1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="43" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JTextField" name="txtDescription">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblComplaintId2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Status"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnVitals1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Claim Insurance"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblComplaintId5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Description"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtAssignedTo">
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtAssessmentReview">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblComplaintId6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Assisment Review"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblComplaintId3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="AssignedTo"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblComplaintId">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Complaint ID*"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtDateSubmitted">
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtComplaintId">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblComplaintId8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Drugs Prescribed"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblComplaintId4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="DateSubmitted"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtStatus">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtStatusActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;&lt;Back"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtTreatmentPlan">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblComplaintId9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="TreatmentPlan"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="tblMedication">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="4" rowCount="4">
+                <Column editable="false" title="DrugID" type="java.lang.Object"/>
+                <Column editable="false" title="DrugName" type="java.lang.Object"/>
+                <Column editable="true" title="Dosage" type="java.lang.Object"/>
+                <Column editable="false" title="Frequency" type="java.lang.Object"/>
+              </Table>
+            </Property>
+            <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+              <TableColumnModel selectionModel="0">
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+              </TableColumnModel>
+            </Property>
+            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Complaint Details"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblComplaintId7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Fees"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtTotalFees">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblComplaintId10">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Approved by pharma"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtMedicationOrderStatus">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;Set value=Assismentfees+medicationorderFees&gt;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblComplaintId11">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="OrderID"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtOrderId">
+    </Component>
+  </SubComponents>
+</Form>
